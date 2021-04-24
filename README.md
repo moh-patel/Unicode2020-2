@@ -42,10 +42,9 @@ The team with the highest points (taken from the top 10 individual scores) will 
 The top 10 coders from each of the 5 Universities in each league will battle it out in the Unicode 20/21 Grand Finale to claim top spot.
 Don’t worry, you can still qualify for the individual finale if your team doesn’t make it
 
-[1]:https://github.com/
-[2]:https://github.com/
-[3]:https://github.com/CraigMyles/
-[4]:https://github.com/CraigMyles/
-[5]:https://github.com/CraigMyles/
-[6]:https://github.com/CraigMyles/
-[7]:https://github.com/CraigMyles/
+
+[7]:https://github.com/moh-patel/Unicode2020-21/tree/main/Crack_The_Code
+[8]:https://github.com/moh-patel/Unicode2020-21/tree/main/Alarics_Treasure
+[9]:https://github.com/moh-patel/Unicode2020-21/tree/main/The_Heist
+[10]:https://github.com/moh-patel/Unicode2020-21/tree/main/Galatea
+[11]:https://github.com/moh-patel/Unicode2020-21/tree/main/The_Archives
