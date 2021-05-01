@@ -14,4 +14,4 @@ class Solution:
                     total += i*int(pos)
                     i += 1
             return total % 11
-        return False
+        return -1
