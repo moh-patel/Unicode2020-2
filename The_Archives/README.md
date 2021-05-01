@@ -1,5 +1,3 @@
-## Please Note I will upload my solution once the date for the challenge has passed
-
 
 ## Challeng info:
 You are working as a researcher in the Archives, a vast collection of
