@@ -8,21 +8,21 @@ In this repo I have included my solutions to the challenges I have attempted in 
 Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 
 
-:pencil: | Challange Name       | Dates Open          | Completed?                    | Score | 
----------|----------------------|---------------------|-------------------------------|-------|
-1        | Ready Player X       | Nov 23rd - Dec 7th  | :white_check_mark:            |  86%  | 
-2        | Devvie               | Dec 7th - Dec 21st  | :negative_squared_cross_mark: |  N/A  | 
-3        | Snowcode             | Dec 21st - Jan 4th  | :negative_squared_cross_mark: |  N/A  | 
-4        | Attack Cleanup       | Jan 4th - Jan 18th  | :negative_squared_cross_mark: |  N/A  | 
-5        | Fraud Alert          | Jan 18th - Feb 1st  | :negative_squared_cross_mark: |  N/A  | 
-6        | Strike               | Feb 1st - Feb 15th  | :white_check_mark:            |  71%  | 
-7        | [Crack The Code][7]  | Feb 15th - Mar 1st  | :white_check_mark:            |  100% | 
+:pencil: | Challange Name        | Dates Open          | Completed?                    | Score | 
+---------|-----------------------|---------------------|-------------------------------|-------|
+1        | Ready Player X        | Nov 23rd - Dec 7th  | :white_check_mark:            |  86%  | 
+2        | Devvie                | Dec 7th - Dec 21st  | :negative_squared_cross_mark: |  N/A  | 
+3        | Snowcode              | Dec 21st - Jan 4th  | :negative_squared_cross_mark: |  N/A  | 
+4        | Attack Cleanup        | Jan 4th - Jan 18th  | :negative_squared_cross_mark: |  N/A  | 
+5        | Fraud Alert           | Jan 18th - Feb 1st  | :negative_squared_cross_mark: |  N/A  | 
+6        | Strike                | Feb 1st - Feb 15th  | :white_check_mark:            |  71%  | 
+7        | [Crack The Code][7]   | Feb 15th - Mar 1st  | :white_check_mark:            |  100% | 
 8        | [Alaric's Treasure][8]| Mar 1st - Mar 15th  | :white_check_mark:            |  100% | 
-9        | [The Heist][9]       | Mar 15th - Mar 29th | :white_check_mark:            |  100% | 
-10       | [Galatea][10]        | Mar 29th - Apr 12th | :white_check_mark:            |  100% | 
-11       | [The Archives][11]   | Apr 12th - Apr 26th | :white_check_mark:            |  100% | 
-12       | The Event            | Apr 26th - May 10th |                               |       | 
-13       | TBC                  | May 10th - May 24th |                               |       | 
+9        | [The Heist][9]        | Mar 15th - Mar 29th | :white_check_mark:            |  100% | 
+10       | [Galatea][10]         | Mar 29th - Apr 12th | :white_check_mark:            |  100% | 
+11       | [The Archives][11]    | Apr 12th - Apr 26th | :white_check_mark:            |  100% | 
+12       | The Event             | Apr 26th - May 10th | ✅                            |   63% | 
+13       | Chain Cose            | May 10th - May 24th | ✅                            |   93% | 
 
 
 
