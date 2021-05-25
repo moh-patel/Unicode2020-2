@@ -22,7 +22,7 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 10       | [Galatea][10]         | Mar 29th - Apr 12th | :white_check_mark:            |  100% | 
 11       | [The Archives][11]    | Apr 12th - Apr 26th | :white_check_mark:            |  100% | 
 12       | The Event             | Apr 26th - May 10th | ✅                            |   63% | 
-13       | [Chain Code][13]      | May 10th - May 24th | ✅                            |   93% | 
+13       | [Chain Code][13]      | May 10th - May 24th | ✅                            |  100% | 
 
 
 
