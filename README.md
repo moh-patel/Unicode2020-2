@@ -1,7 +1,7 @@
 # UniCode-20-21
 
 Welcome to my UniCode 2020 repository. 
-Across 13 challenges, 80+ UK based Universities battle it out head-to-head to try and finish in the top 5 of their league, earning their spot at the ultimate coding battle finale.
+Across 13 challenges, 80+ UK based Universities battle it out head-to-head to try and finish in the top 10 of their league, earning their spot at the ultimate coding battle finale.
 
 In this repo I have included my solutions to the challenges I have attempted in Python
 
